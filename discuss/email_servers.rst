@@ -107,7 +107,7 @@ that is a CNAME with the value "odoo._domainkey.odoo.com".
 
 Restriction
 -----------
-Please note that the port 25 will remain blocked for security reason. Try using 587, 465 or 2525.
+Please note that the port 25 is blocked for security reasons. Try using 587, 465 or 2525.
 
 How to manage inbound messages
 ==============================
